@@ -1,4 +1,4 @@
-// Como podemos rodar isso em um arquivo .ts sem causar erros? 
+
 //Resposta 01
 let employee = {
     code: 10, 
